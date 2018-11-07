@@ -12,7 +12,7 @@ As of Jan 2017; the Nuxeo version supported is Nuxeo 6.0
 ## [pynux](https://github.com/ucldc/pynux/)
 pynux is a python wrapper for the nuxeo REST API.  It is both a library that is used
 in other CDL programs and scripts; and a set of command line tools (CLI) to perform common
-tasks at a command line.  Most of our tooling around metadat is based on pynx.
+tasks at a command line.  Most of our tooling around metadat is based on pynux.
 
 ## [nxcli](https://github.com/ucldc/nxcli)
 nx cli is a node command line based on Nuxeo's official javascript API wrapper.  I could never
